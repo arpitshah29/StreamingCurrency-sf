@@ -36,9 +36,8 @@
     },
     
     receivePayload : function(component, event, helper) {
-      
-        
 		//payload comes from supercomponent listener
+		//
         let payload  = component.get("v.payload");
 
         if(payload['base__c'] == component.get("v.base") && payload['quote__c'] == component.get("v.quote"))
@@ -52,6 +51,18 @@
             if(selectedFieldValue != undefined){
                 component.set("v.selectedFieldValue", selectedFieldValue);
             }
+            
+        	if ((payload['direction__c']) == "buy")
+            {
+                component.set("v.message", payload['direction__c']);
+                component.set("v.severity","info");
+            }
+            else
+            {
+                component.set("v.message", payload['direction__c']);
+                component.set("v.severity","warning");
+            }
+                
     	}       
     },
     
@@ -61,7 +72,7 @@
 
     updateSelectedFields : function(component, event, helper) {
 		let eventName = event.getSource().get("v.value");
-        let  eventNameFieldsMap = component.get("v.eventNameFieldsMap");
+        let eventNameFieldsMap = component.get("v.eventNameFieldsMap");
         let selectedFields = eventNameFieldsMap[eventName];
         component.set("v.selectedFields", selectedFields);
         

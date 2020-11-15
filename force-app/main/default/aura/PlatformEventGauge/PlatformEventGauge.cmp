@@ -5,6 +5,10 @@
     
     <aura:attribute name="base" type="string" description="List of Trading Assets"/>
     <aura:attribute name="quote" type="string" description="List of Trading Assets"/>
+    
+    <aura:attribute name="message" type="string" description="List of Trading Assets"/>
+    <aura:attribute name="severity" type="string" description="List of Trading Assets"/>
+    
     <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
     
     <!-- Payload is an attribute on the extended listener component. Event name is set in init-->
@@ -17,7 +21,6 @@
     <aura:attribute name="max" type="String"/>
     <aura:attribute name="defaultColorOrder" type="String"/>
     
-
     <aura:handler name="change" value="{!v.selectedFieldValue}" action="{!c.loadChart}"/>
     <!--<aura:handler name="change" value="{!v.selectedField}" action="{!c.setFieldLabel}"/>  -->  
 
@@ -28,6 +31,9 @@
     <hr/>  
  <div id="chart"></div>
  -->
+    <ui:message title="{!v.message}" severity="{!v.severity}" closable="false">
+			:Transaction guidance message.
+	</ui:message>
+    <br/>
         <div id="{!v.chartId}"></div>
-    
 </aura:component>
