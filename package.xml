@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Crypto_Exchange</members>
+		<name>CustomApplication</name>
+	</types>
+	<types>
+		<members>trade__c</members>
+		<members>Trade_Asset__c</members>
+        <members>Crypto__e</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+     	<members>Admin</members>
+     	<name>Profile</name>
+    </types>
+	<types>
+		<members>Crypto_Exchange_Permission_Set</members>
+		<name>PermissionSet</name>
+	</types>
+	<types>
+		<members>trade__c-trade Layout</members>
+		<members>Trade_Asset__c-Crypto Asset Layout</members>
+		<name>Layout</name>
+	</types>
+	<types>
+		<members>c3</members>
+		<members>c3css</members>
+		<members>chartJS</members>
+		<members>ChartJS23</members>
+		<members>cometdjs</members>
+		<members>d3517</members>
+		<members>eventHub</members>
+		<members>momentjs</members>
+		<name>StaticResource</name>
+	</types>
+	<types>
+		<members>trade__c</members>
+		<name>CustomTab</name>
+	</types>
+	<types>
+		<members>SDO_Homepage</members>
+		<members>PlatformEventBubble</members>
+		<members>PlatformEventsChart</members>
+		<members>PlatformEventSimulator</members>
+		<members>EventHub</members>
+		<members>PlatformEventGauge</members>
+		<members>PlatformEventListener</members>
+		<name>AuraDefinitionBundle</name>
+	</types>
+	<types>
+		<members>PlatformEventsChartController</members>
+		<members>PlatformEventSimulatorController</members>
+		<members>SessionController</members>
+		<members>rm_EventDesignPicklist</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>trade_Record_Page</members>
+		<members>eXCHANGE</members>
+		<members>Crypto_Exchange_UtilityBar</members>
+		<name>FlexiPage</name>
+	</types>
+<version>49.0</version>
+</Package>
