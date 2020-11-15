@@ -1,0 +1,277 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef1"
+            },
+            "Name": "siacoin"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef2"
+            },
+            "Name": "maker"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef3"
+            },
+            "Name": "ethereum"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef4"
+            },
+            "Name": "bitcoin"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef5"
+            },
+            "Name": "tether"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef6"
+            },
+            "Name": "bitcoin-bep2"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef7"
+            },
+            "Name": "dash"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef8"
+            },
+            "Name": "decentraland"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef9"
+            },
+            "Name": "near-protocol"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef10"
+            },
+            "Name": "tezos"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef11"
+            },
+            "Name": "elrond-egld"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef12"
+            },
+            "Name": "coti"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef13"
+            },
+            "Name": "chainlink"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef14"
+            },
+            "Name": "ethereum"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef15"
+            },
+            "Name": "omg"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef16"
+            },
+            "Name": "civic"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef17"
+            },
+            "Name": "ftx-token"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef18"
+            },
+            "Name": "bitcoin-cash"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef19"
+            },
+            "Name": "near-protocol"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef20"
+            },
+            "Name": "binance-usd"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef21"
+            },
+            "Name": "binance-coin"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef22"
+            },
+            "Name": "cocos-bcx"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef23"
+            },
+            "Name": "uniswap"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef24"
+            },
+            "Name": "kava"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef25"
+            },
+            "Name": "waves"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef26"
+            },
+            "Name": "litecoin"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef27"
+            },
+            "Name": "balancer"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef28"
+            },
+            "Name": "cardano"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef29"
+            },
+            "Name": "eos"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef30"
+            },
+            "Name": "akropolis"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef31"
+            },
+            "Name": "ocean-protocol"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef32"
+            },
+            "Name": "yearn-finance"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef33"
+            },
+            "Name": "sushiswap"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef34"
+            },
+            "Name": "storj"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef35"
+            },
+            "Name": "brazilian-real"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef36"
+            },
+            "Name": "monero"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef37"
+            },
+            "Name": "solana"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef38"
+            },
+            "Name": "omg"
+        },
+        {
+            "attributes": {
+                "type": "Trade_Asset__c",
+                "referenceId": "Trade_Asset__cRef39"
+            },
+            "Name": "filecoin"
+        }
+    ]
+}
