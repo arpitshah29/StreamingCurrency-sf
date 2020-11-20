@@ -36,7 +36,7 @@
          let title = component.get("v.title");
         
          if(yField == null) {
-             helper.displayToast(component, "warning", title + " Vertical Axis Field not set properly. Check chart configuration.");
+             //helper.displayToast(component, "warning", title + " Vertical Axis Field not set properly. Check chart configuration.");
             return;
         }
          
