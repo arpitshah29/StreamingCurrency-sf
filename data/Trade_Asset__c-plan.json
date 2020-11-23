@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Trade_Asset__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Trade_Asset__cs.json"
+        ]
+    }
+]
