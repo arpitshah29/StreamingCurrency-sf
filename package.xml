@@ -19,6 +19,10 @@
 		<name>PermissionSet</name>
 	</types>
 	<types>
+  		<members>trade__c.CryptoExchangeCompactLayout</members>
+        <name>CompactLayout</name>
+    </types>
+	<types>
 		<members>trade__c-trade Layout</members>
 		<members>Trade_Asset__c-Crypto Asset Layout</members>
 		<name>Layout</name>
