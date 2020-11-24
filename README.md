@@ -88,7 +88,6 @@ bitcoin      | tether
   
 - Check connection: 
   - Check the Smart Websocket Client for stream of exchange data.
-  <video width="320" height="240" controls>
-  <source src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/Smart%20Websocket%20Client%20-%20Google%20Chrome%202020-11-23%2022-02-54.mp4">
-  </video>
+  ![](https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/Smart%20Websocket%20Client%20-%20Google%20Chrome%202020-11-23%2022-02-54.mp4)
+  
   - Check the Mule application log for stream of exchange data.
