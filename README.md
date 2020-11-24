@@ -52,6 +52,8 @@ bitcoin      | tether
   - sf.pwd=*security token of the Org*
 <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-properties.png">
 
+- Install Chrome plugin <a href="https://chrome.google.com/webstore/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp"> Smart Websocket Client </a>. Any web socket client could be used. 
+
 ## Part 3: Finally, test your solution.
 
 - Run the Mule application. There are 2 options to run the project: 
@@ -71,3 +73,19 @@ bitcoin      | tether
    - Right Click the project in **Package Explorer**.
    - Click **Run As >> Mule Application**.
    <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-run.png">
+
+- Check that Mulesoft application log shows **DEPLOYED**. 
+<img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/streamin-mule-app.png">
+
+- Open Smart Websocket Client
+
+- Connect to the a Crypto Exchange:
+  - Open Smart Websocket Client
+  - Put ws://localhost:8082/ws/wsdata in the imput box. 
+  - Click on the **Connect** button.
+  - Click on the **Send** button.
+  <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/smart-websocket-client.png">
+  
+- Check connection: 
+  - Check the Smart Websocket Client for stream of exchange data.
+  - Check the Mule application log for stream of exchange data.
