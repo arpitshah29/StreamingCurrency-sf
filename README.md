@@ -24,9 +24,12 @@
 - Go to **trades** and click on the **New** button.
 <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/9E495286-E6D0-4CC0-A644-21047D83B442.png">
 
-- A form appears for adding a new trade. Select the **Base Asset** and **Quote Asset**. If Trade_Asset__c data has been properly uploaded, options would apera.
-<ing src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/35B622F5-0E3E-4E76-ABD4-C53BDA03851E.png">
+- A form appears for adding a new trade. Select the **Base Asset** and **Quote Asset**. 
+<img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/35B622F5-0E3E-4E76-ABD4-C53BDA03851E.png">
   
+- If Trade_Asset__c data has been properly uploaded, options would appear.
+<img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/5CDE6986-8C59-4E17-9256-A3C112BD8F0A.png">
+
 - Any possible combination of **Base Asset** and **Quote Asset** could be used. 
 <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/0FB182B4-D9AC-4F9D-AC10-82D77DBFF81B.png">
   - Possible options are provided below:
