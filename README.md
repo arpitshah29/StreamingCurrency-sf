@@ -59,14 +59,14 @@ bitcoin      | tether
    <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-export-option.png">
    
    
-   - Select **Anypoint Studio project to Mule Deployable Archive** opyion.
-   
+   - Select **Anypoint Studio project to Mule Deployable Archive** option.
+   <br>
    <img src='https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-export.png'>
    
    - Save the .jar file locally on your drive. 
    - Follow the <a href="https://www.apisero.com/setup-mule-standalone-runtime-locally-and-reploy-application/"> instruction </a> son how to setup Mule Standalone Runtime locally and deploy application.
-   
+
  - Option 2.
-  - Right Click the project in **Package Explorer**.
-  - Click **Run As >> Mule Application**.
+   - Right Click the project in **Package Explorer**.
+   - Click **Run As >> Mule Application**.
    <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-run.png">
