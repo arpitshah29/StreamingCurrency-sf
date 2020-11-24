@@ -59,7 +59,8 @@ bitcoin      | tether
    <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-export-option.png">
    
    
-   - Select **Anypoint Studio project to Mule Deployable Archive**.
+   - Select **Anypoint Studio project to Mule Deployable Archive** opyion.
+   
    <img src='https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-export.png'>
    
    - Save the .jar file locally on your drive. 
