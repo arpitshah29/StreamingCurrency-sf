@@ -88,6 +88,9 @@ bitcoin      | tether
   
 - Check connection: 
   - Check the Smart Websocket Client for stream of exchange data.
+  
   [![](http://img.youtube.com/vi/MiV-3zAasDk/0.jpg)](http://www.youtube.com/watch?v=MiV-3zAasDk "SteamingExchange")
+  
+  
   
   - Check the Mule application log for stream of exchange data.
