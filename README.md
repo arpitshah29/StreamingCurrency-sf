@@ -48,8 +48,11 @@ bitcoin      | tether
 
 - Channge the parameters.
 
-- There are 2 options to run the project: 
-  - Option 1.
+
+## Part 3: Finally, test your solution.
+
+- Run the Mule application. There are 2 options to run the project: 
+ - Option 1.
    - Right Click the project in **Package Explorer**.
    
    - Click **Export**. 
@@ -61,9 +64,7 @@ bitcoin      | tether
    - Save the .jar file locally on your drive. 
    - Follow the <a href="https://www.apisero.com/setup-mule-standalone-runtime-locally-and-reploy-application/"> instruction </a> son how to setup Mule Standalone Runtime locally and deploy application.
    
-  - Option 2.
-   - Right Click the project in **Package Explorer**.
-   - Click **Run As >> Mule Application**.
+ - Option 2.
+  - Right Click the project in **Package Explorer**.
+  - Click **Run As >> Mule Application**.
    <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-run.png">
-
-## Part 3: Finally, test your solution.
