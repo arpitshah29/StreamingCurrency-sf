@@ -68,5 +68,5 @@ bitcoin      | tether
    
  - Option 2.
   - Right Click the project in **Package Explorer**.
-   - Click **Run As >> Mule Application**.
+  - Click **Run As >> Mule Application**.
    <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-run.png">
