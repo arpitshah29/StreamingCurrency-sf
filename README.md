@@ -94,3 +94,19 @@ bitcoin      | tether
   
   
   - Check the Mule application log for stream of exchange data.
+  
+  [![](http://img.youtube.com/vi/j6HKqLgdm7w/0.jpg)](http://www.youtube.com/watch?v=j6HKqLgdm7w "SteamingExchange")
+  
+
+
+- Open the **Crypto Exchange** app on Salesforce1 Mobile App
+<img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/BB7369D3-5BFA-4D26-8C39-44381A01DBA6.png">
+  
+- Click on any trade record (created during setup).
+<img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/9E495286-E6D0-4CC0-A644-21047D83B442.png">
+
+- As the exchange information for **Base Asset** and **Quote Asset** combination is recieved, it'd be reflected on the dynamic dashboards.
+<img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/DEC64B43-3B4D-4D01-A67C-44C8AE142F91.png">
+<img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/364188A7-5D02-4240-BC2A-09B437DC5882.png">
+
+- Select a new set of **Base Asset** and **Quote Asset** combination and visualise data.
