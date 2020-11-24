@@ -41,7 +41,7 @@ bitcoin      | tether
 
 ## Part 2: Setup Mulesoft ESB.
 
-- Checkout a local copy of <a href="https://github.com/kaul-vineet/StreamingCurrency-mule/tree/master" Mulesoft project </a>.
+- Checkout a local copy of <a href="https://github.com/kaul-vineet/StreamingCurrency-mule/tree/master"> Mulesoft project </a>.
 
 - Open the project using <a href="https://www.mulesoft.com/platform/studio"> Anypoint Studio </a>.
 <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-project.png">
