@@ -1,4 +1,4 @@
-# Streaming Currency
+# Crypto Exchange
 ## How to integrate you Salesforce application with streaming data from Crypto Exchange.
 
 ## Part 1: Setup the Salesforce Org.
