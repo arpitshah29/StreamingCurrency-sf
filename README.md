@@ -31,6 +31,7 @@
 <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/0FB182B4-D9AC-4F9D-AC10-82D77DBFF81B.png">
   - Possible options are provided below:
 
+
 Base Asset   | Quote Asset
 ------------ | -------------
 bitcoin      | etherium
