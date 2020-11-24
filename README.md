@@ -30,11 +30,9 @@
 - If Trade_Asset__c data has been properly uploaded, options would appear.
 <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/5CDE6986-8C59-4E17-9256-A3C112BD8F0A.png">
 
-- Any possible combination of **Base Asset** and **Quote Asset** could be used. 
+- Any possible combination of **Base Asset** and **Quote Asset** could be used. Suggested options are provided below:
 <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/0FB182B4-D9AC-4F9D-AC10-82D77DBFF81B.png">
-  - Suggested options are provided below:
-
-
+  
 Base Asset   | Quote Asset
 ------------ | -------------
 bitcoin      | etherium
