@@ -58,6 +58,7 @@ bitcoin      | tether
    - Click **Export**. 
    <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-export-option.png">
    
+   
    - Select **Anypoint Studio project to Mule Deployable Archive**.
    <img src='https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-export.png'>
    
@@ -66,5 +67,5 @@ bitcoin      | tether
    
  - Option 2.
   - Right Click the project in **Package Explorer**.
-  - Click **Run As >> Mule Application**.
+   - Click **Run As >> Mule Application**.
    <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-run.png">
