@@ -10,7 +10,7 @@
 
 - Import seed data into the Org:
   - Use the <a href="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/data/Trade_Asset__c-plan.json"> plan file </a> and <a href="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/data/Trade_Asset__cs.json"> data file </a> to load data into Trade_Asset__c object in the Org. Use the sf:dx command to import data:
-  '''sfdx force:data:tree:import -p data/Trade_Asset__c-plan.json -u vkaul-rezang-la-demo.lightning.force.com
+```sfdx force:data:tree:import -p data/Trade_Asset__c-plan.json -u vkaul-rezang-la-demo.lightning.force.com```
   - Another alternative is to convert data file to CSV and upload the Trade_Asset__c.Name field by using DataLoader, Workbench or your favorite data management tool 
 
 - Open Salesforce1 app. 
