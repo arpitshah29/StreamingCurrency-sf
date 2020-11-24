@@ -24,10 +24,17 @@
 - Go to **trades** and click on the **New** button.
 <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/9E495286-E6D0-4CC0-A644-21047D83B442.png">
 
-- A form appears for adding a new trade. Select the **Base Asset* and **Quote Asset**. If Trade_Asset__c data has been properly uploaded, options would apera.
+- A form appears for adding a new trade. Select the **Base Asset** and **Quote Asset**. If Trade_Asset__c data has been properly uploaded, options would apera.
 <ing src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/35B622F5-0E3E-4E76-ABD4-C53BDA03851E.png">
   
-- 
+- Any possible combination of **Base Asset** and **Quote Asset** could be used. 
+<img src=""https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/0FB182B4-D9AC-4F9D-AC10-82D77DBFF81B.png">
+  - Possible options are provided below:
+Base Asset   | Quote Asset
+------------ | -------------
+bitcoin      | etherium
+bitcoin      | tether
+                                                                                                                           
 
 ## Part 2: Setup Mulesoft ESB.
 
