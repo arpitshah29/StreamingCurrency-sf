@@ -46,8 +46,11 @@ bitcoin      | tether
 - Open the project using <a href="https://www.mulesoft.com/platform/studio"> Anypoint Studio </a>.
 <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-project.png">
 
-- Channge the parameters.
-
+- Open properties file at **src/main/resources/app.properties**. Edit the file with following parameters
+  - sf.username:*usename of the Org*
+  - sf.token:*password of the Org*
+  - sf.pwd=*security token of the Org*
+<img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-properties.png">
 
 ## Part 3: Finally, test your solution.
 
@@ -57,10 +60,8 @@ bitcoin      | tether
    
    - Click **Export**. 
    <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-export-option.png">
-   
-   
-   - Select **Anypoint Studio project to Mule Deployable Archive** option.
    <br>
+   - Select **Anypoint Studio project to Mule Deployable Archive** option.
    <img src='https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/mule-export.png'>
    
    - Save the .jar file locally on your drive. 
