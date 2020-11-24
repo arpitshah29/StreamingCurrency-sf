@@ -1,4 +1,5 @@
-# StreamingCurrency
+# Streaming Currency
+## How to integrate you Salesforce application with streaming data from Crypto Exchange.
 
 ## Part 1: Setup the Salesforce Org.
 
@@ -81,7 +82,7 @@ bitcoin      | tether
 
 - Connect to the a Crypto Exchange:
   - Open Smart Websocket Client
-  - Put ws://localhost:8082/ws/wsdata in the imput box. 
+  - Put URI **ws://localhost:8082/ws/wsdata** in the input box. 
   - Click on the **Connect** button.
   - Click on the **Send** button.
   <img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/smart-websocket-client.png">
