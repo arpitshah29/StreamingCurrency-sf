@@ -28,7 +28,7 @@
 <ing src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/35B622F5-0E3E-4E76-ABD4-C53BDA03851E.png">
   
 - Any possible combination of **Base Asset** and **Quote Asset** could be used. 
-<img src=""https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/0FB182B4-D9AC-4F9D-AC10-82D77DBFF81B.png">
+<img src="https://github.com/kaul-vineet/StreamingCurrency-sf/blob/master/images/0FB182B4-D9AC-4F9D-AC10-82D77DBFF81B.png">
   - Possible options are provided below:
 Base Asset   | Quote Asset
 ------------ | -------------
